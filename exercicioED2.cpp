@@ -8,6 +8,7 @@ using namespace std;
 //estivesse declarada antes. então tive que mexer na ordem das funções 
 //Não lembro se é uma especifidade do C++ ou um problema com o compilador online.
 //Caso o professor queira testar, utilizei  http://cpp.sh/.e o código está no github
+// no link https://github.com/natancunha/ED2atividade1
 
 
 
